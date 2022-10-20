@@ -1,0 +1,190 @@
+.container{
+    width: 1360px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color:#eee;
+}
+
+.site-logo-link{
+    text-decoration: none;
+}
+
+
+.sitebar{
+    list-style: none;
+    display: inline-block;
+    margin-left: 550px;
+
+}
+
+.site-item{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.site-top-link{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #1F1534;
+}
+.activ{
+    font-weight: 700;
+}
+
+
+.site-bottom{
+    display: inline-block;
+
+}
+
+.site-bottom-info{
+    width: 427px;
+    display: inline-block;
+
+}
+
+.site-title{
+    font-weight: 700px;
+    font-size: 48px;
+    line-height: 56px;
+    margin: 0;
+    color: #000;
+    margin-bottom: 25px;
+
+
+}
+
+.site-text{
+    font-style: normal;
+    font-weight:300;
+    font-size: 21px;
+    line-height: 32px;
+    color:#7D7987;
+    margin-bottom: 89px;
+
+}
+.link-left{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #fff;
+    background-color:#458FF6;
+    border-radius: 25px;
+    padding: 15px 16px;
+    margin-right: 24px;
+    
+
+}
+
+.foto{
+    width: 693px;
+    height: 598px;
+    left: 800px;
+    right: 6.69%;
+    top: 4.36%;
+    bottom:85.45%;
+   
+}
+
+.cards{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.blol{
+    font-size: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius:50%;
+}
+
+.jovo{
+    font-size: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius:50%;
+}
+
+.boxo{
+    font-size: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius:50%;
+}
+
+.behruz{
+    font-size: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius:50%;
+}
+
+.ahmad{
+    font-size: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.abu{
+    font-size: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+
+}
+
+
+.card{
+    list-style: none;
+    width: 1160px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+
+}
+
+.bir{
+    width: 350px;
+    height: 354px;
+    left: 728px;
+    top: 1280px;
+    border-radius: 20px;
+}
+
+.sarlavha{
+   text-align: center;
+    
+}
+.tekst{
+    text-align: center;
+    color:rgba(125, 121, 135, 1)
+}
+
+p{
+    color:rgba(125, 121, 135, 1)
+}
+
+
+.blok{
+   display: inline-block;
+   margin-left: 490px;
+}
+.li{
+    list-style: none;
+}
+
+
+.cook{
+    display: inline-block;
+
+}

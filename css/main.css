@@ -1,0 +1,596 @@
+.container{
+    width: 1360px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color:#eee;
+}
+
+.site-logo-link{
+    text-decoration: none;
+}
+
+
+.sitebar{
+    list-style: none;
+    display: inline-block;
+    margin-left: 550px;
+
+}
+
+.site-item{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.site-top-link{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #1F1534;
+}
+.activ{
+    font-weight: 700;
+}
+
+
+.site-bottom{
+    display: inline-block;
+ 
+ 
+    position: relative;
+
+}
+
+.site-bottom ::before{
+    content: "" ;
+    position: absolute;
+    top: 0;
+    left: -25%;
+  
+    background-repeat: initial;
+    background-size: contain;
+    background-position: center;
+    height: 115px;
+    width: 131.58px;
+
+}
+
+.site-bottom-info{
+    width: 427px;
+    display: inline-block;
+
+}
+
+.site-title{
+    font-weight: 700px;
+    font-size: 48px;
+    line-height: 56px;
+    margin: 0;
+    color: #000;
+    margin-bottom: 25px;
+
+
+}
+
+.site-text{
+    font-style: normal;
+    font-weight:300;
+    font-size: 21px;
+    line-height: 32px;
+    color:#7D7987;
+    margin-bottom: 89px;
+
+}
+.link-left{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #fff;
+    background-color:#458FF6;
+    border-radius: 25px;
+    padding: 15px 16px;
+    margin-right: 24px;
+    
+
+}
+
+.foto{
+    width: 693px;
+    height: 598px;
+    left: 800px;
+    right: 6.69%;
+    top: 4.36%;
+    bottom:85.45%;
+   
+}
+
+.cards{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image:url(../images/Vector.png);
+    background-repeat:no-repeat;
+    background-position:left center;
+}
+
+.card{
+    background-repeat:no-repeat;
+}
+
+.card>p{
+    height: 100px;
+}
+
+
+.blol{
+   
+    width: 200px;
+    height: 200px;
+    
+}
+
+.jovo{
+    
+    width: 200px;
+    height: 200px;
+    
+}
+
+.boxo{
+    
+    width: 200px;
+    height: 200px;
+  }  
+
+.behruz{
+   width: 200px;
+   height: 200px;
+  
+}
+
+.ahmad{
+   
+    width: 200px;
+    height: 200px;
+ }
+
+.abu{
+   
+    width: 200px;
+    height: 200px;
+   
+
+
+}
+
+
+.card{
+    list-style: none;
+    width: 1160px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+
+}
+
+.bir{
+    width: 350px;
+    height: 354px;
+    left: 728px;
+    top: 1280px;
+    border-radius: 20px;
+}
+
+.sarlavha{
+   text-align: center;
+    
+}
+.tekst{
+    text-align: center;
+    color:rgba(125, 121, 135, 1)
+}
+
+p{
+    color:rgba(125, 121, 135, 1)
+}
+
+
+.blok{
+   display: inline-block;
+   margin-left: 490px;
+}
+.li{
+    list-style: none;
+}
+.olti{
+
+    width: 90%;
+    border-radius:20px;
+    display: inline-block;
+}
+
+
+
+.olti{
+  
+    background-color:#fff;
+    width: 90%px;
+    height: 354px;
+    left: 344px;
+    top: 1671px;
+    background: #FFFFFF;
+    box-shadow: 10px 40px 50px rgb(229 233 246 / 40%);
+    border-radius:20px 10px 20px;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+
+
+.cook{
+    display: flex;
+    text-align:center;
+    border-radius: 20px;
+    margin-left: 20px;
+    padding: 30px;
+    height: 400px;
+   
+ }
+
+
+.site-card{
+   text-align: center;
+   
+}
+   
+.ourtext>button{
+    text-align: center;
+    color:#458FF6;
+    background-color:transparent;
+    border: 2px solid #458FF6; 
+    border-radius: 30px;
+    padding: 15px 45px;
+}
+
+.ourtext{
+    text-align: center;
+}
+
+
+
+
+.qism4>h2220{
+    font-size: 35px;
+}
+
+.qism4>p02020{
+    opacity: 0.7;
+    margin: 30px 0px;
+
+}
+
+
+.qism4{
+    color:#7D7987;
+    display: inline-block;
+    margin-left: 200px;   
+}
+
+.bosh-soz{
+    font-weight: 700px;
+    font-size: 48px;
+    line-height: 56px;
+    margin: 0;
+    color: #000;
+    margin-bottom: 25px;
+    display: inline-block;
+    margin-left: 820px;
+}
+
+
+
+
+
+.skachat{
+    display: inline-block;
+    margin-left: 820px;
+}
+
+.ustanofka{
+    display: inline-block;
+    margin-left: 820px;
+}
+
+
+.card3{
+    text-align: center;
+    color:white;
+    padding: 40px;
+    width:1360px;
+    margin: 0 auto;
+   margin-top: 100px;
+    background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);height: 425px;
+    left: 240px;
+    top: 3727px;
+    border-radius: 24px;
+    
+}
+
+.cards ::before{
+
+}
+
+.qismla>p{
+    color:white;
+}
+.qismla>span h3{
+    color:white;
+}
+
+.qismla{
+    display: grid;
+    grid-template-columns: 1fr 1fr 3fr;
+    margin-top: 40px;
+    align-items:center;
+}
+
+.qismla>img{
+    border-radius:70px;
+    position: relative;
+    left: 100px;
+}
+
+.soz{
+    display: inline-block;
+    margin: 50px;
+    
+}
+
+
+
+.sariq{
+    background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+    display: inline-block;
+    margin: 0 auto;
+    padding: 0 20px;
+    margin-left: 820px;
+    height: 432px;
+    width: 1600px;
+ }
+
+
+
+
+ .air{
+    border-radius:30px 30px;
+    height: 200px;
+    width: 200px;
+    left: 530px;
+    top: 3992px;
+    
+
+ }
+
+
+
+ .guruh1{
+    text-align: center;
+    
+
+ }
+
+.post{
+   
+    width: 90%;
+    border-radius:20px;
+}
+
+
+
+ .posts{
+    width: 90%;
+    border-radius:20px;
+    text-align: center;
+    padding: 40px;
+    width:1360px;
+    margin: 0 auto;
+   margin-top: 100px;
+    left: 240px;
+    top: 3727px;
+    border-radius: 20px;
+    box-shadow:10px 40px 50px rgba(229, 233, 246, 0.4);
+
+ }
+
+ .bukun{
+   
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    color:#000000;
+    text-align: center;
+    padding: 10px;
+ }
+
+
+ .svg{
+    text-align: center;
+    padding: 50px;
+  
+   
+ }
+ .post>p{
+    opacity: 0.6;
+    margin: 15px 0;
+ }
+
+ .post>a{
+    text-decoration: none;
+    color: #458FF6;
+ }
+
+
+
+
+
+ footer{
+    width: 1360px;
+   
+    display: inline-block;
+    background-color:#458FF6;
+    color:white;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 50px;
+    display: grid;
+    grid-template-columns: 3fr 1fr 1fr 1fr;
+    align-items:center;
+ }
+ 
+ .flogo span{
+    display: flex;
+    align-items:center;
+ }
+
+ .flogo span h1{
+    padding: 5px 20px;
+    background-color:white;
+    border-radius: 50px;
+    color:#458FF6;
+ }
+
+ .fmenu>p{
+    color:#FFFFFF;
+ }
+
+ .flago>p{
+    color:white;
+ }
+ 
+
+
+ .olti>a{
+    color: rgba(64, 137, 237, 1);
+
+    text-decoration: none;
+ }
+
+
+
+
+
+.cosmos{
+    background-color:#fff;
+    width: 350px;
+    height: 512px;
+    left: 1010px;
+    top: 4596px;
+    background: #FFFFFF;
+    box-shadow: 10px 40px 50px rgb(229 233 246 / 40%);
+    border-radius: 20px;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+
+
+
+.lov{
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    height: 675px;
+    width: 1365.5810546875px;
+    left: 280px;
+    top: 2783px;
+    border-radius: [object Object]px;
+    
+
+}
+
+
+
+.million{
+   
+    display: inherit;
+    align-items:center;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1365.5810546875px;
+    left: 280px;
+    top: 2783px;
+    border-radius: [object Object]px;
+    
+}
+
+
+
+.qism3{
+    display: inline-block;
+    
+}
+
+.button{
+    text-align: center;
+    color:#458FF6;
+    background-color:transparent;
+    border: 2px solid #458FF6; 
+    border-radius: 30px;
+    padding: 15px 45px;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: rgba(64, 137, 237, 1);
+    font-size: 20px;
+
+}
+
+
+.qism4>h2{
+    color:black;
+}
+
+
+
+.bukun:hover{
+    box-shadow:10px 10px 3px gray;
+}
+
+.cosmos:hover{
+    box-shadow:10px 10px 3px gray;
+}
+
+.cosmos:active{
+    box-shadow:10px 10px 3px green;
+}
+
+.cosmos-title::first-letter{
+    font-size: 200px;
+}
+
+.cosmos-text::first-line{
+    background-color:#f0f;
+    color:#ffff;
+}
+
+
+
+.site-bottom:hover{
+    box-shadow:10px 10px 3px grey;
+}
+
+.olti:hover{
+    box-shadow:10px 10px 3px grey;
+}
+ 
